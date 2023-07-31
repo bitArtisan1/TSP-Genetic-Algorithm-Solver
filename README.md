@@ -14,6 +14,18 @@ The process continues until no further improvement is possible.
 ### Simulated Annealing (SA) Optimization:
 Additionally, the 2-Opt optimized tour is subjected to Simulated Annealing optimization to escape local minima and potentially improve the result.
 Simulated Annealing is a probabilistic optimization method that allows the algorithm to accept worse solutions with a certain probability based on the current "temperature".
-The temperature reduces over time, leading the algorithm to converge towards the optimal solution.
+The temperature reduces over time, leading the algorithm to converge toward the optimal solution.
 ### Pheromone Ant Colony Meta-heuristic Optimization Search (AOC):
 The program also implements a separate search using Pheromone-Based Ant Colony Optimization, Pheromone-based ACO algorithm guides the ants to build a solution collectively, based on the pheromone trails deposited on the edges.
+## To Add
+* Implement other metaheuristics like Particle Swarm Optimization
+* Improve the GA structure, Elitism and Population Diversity, Adaptive Mutation Rate
+* Experiment with the Lin Kernighan Algorithm
+* Improve the GUI for better user communication and clarity, also add the ability to customize the diagram from the GUI
+* Expand the program to Solve other operational search problems (A* Algorithm, Djikstra's Algorithmm,...)
+## Requirements
+It requires `numpy`, `tkinterr`, `matplotlib`:
+```
+$ pip install numpy tkinter matplotlib
+
+```
