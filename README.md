@@ -1,5 +1,7 @@
 # TSP-Genetic-Algorithm-Solver
 This repository contains a Python implementation of a Traveling Salesman Problem (TSP) solver using Genetic Algorithms hybridized with 2-Opt heuristic optimization and Simulated Annealing. The solver also includes metaheuristic optimizations like Ant Colony Optimization (AOC), also, an Interactive GUI with path highlighting and a city diagram drawer.
+## What is TSP ?
+The traveling salesman problem (TSP) poses the question: "Given a set of cities and the distances between each pair of cities, what is the shortest route that visits each city exactly once and returns to the starting city?" This problem is classified as NP-hard in combinatorial optimization and is of major importance in the realms of theoretical computer science and operations research (OR).
 ## Features
 ### TSP Solver using Genetic Algorithms (GA):
 - The Genetic Algorithm is employed to find an approximate solution to the Traveling Salesman Problem.
