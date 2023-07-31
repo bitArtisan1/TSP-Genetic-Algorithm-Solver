@@ -15,3 +15,5 @@ The process continues until no further improvement is possible.
 Additionally, the 2-Opt optimized tour is subjected to Simulated Annealing optimization to escape local minima and potentially improve the result.
 Simulated Annealing is a probabilistic optimization method that allows the algorithm to accept worse solutions with a certain probability based on the current "temperature".
 The temperature reduces over time, leading the algorithm to converge towards the optimal solution.
+### Pheromone Ant Colony Meta-heuristic Optimization Search (AOC):
+The program also implements a separate search using Pheromone-Based Ant Colony Optimization, Pheromone-based ACO algorithm guides the ants to build a solution collectively, based on the pheromone trails deposited on the edges.
