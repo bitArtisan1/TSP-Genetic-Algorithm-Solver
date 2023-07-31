@@ -17,6 +17,8 @@ Simulated Annealing is a probabilistic optimization method that allows the algor
 The temperature reduces over time, leading the algorithm to converge toward the optimal solution.
 ### Pheromone Ant Colony Meta-heuristic Optimization Search (AOC):
 The program also implements a separate search using Pheromone-Based Ant Colony Optimization, Pheromone-based ACO algorithm guides the ants to build a solution collectively, based on the pheromone trails deposited on the edges.
+### Plotting
+Once the search finishes for GA/AOC, the search history will be plotted for analysis and estimation (Generation/Iteration vs Distance)
 ## To Add
 * Implement other metaheuristics like Particle Swarm Optimization
 * Improve the GA structure, Elitism and Population Diversity, Adaptive Mutation Rate
