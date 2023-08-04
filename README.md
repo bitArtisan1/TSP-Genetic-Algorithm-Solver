@@ -61,3 +61,10 @@ default_cities = {
 ~~~
 
 You can also modify other parameters for better tunning (alpha, beta, ...)
+
+## Support Me
+
+If you liked this, please consider leaving a star ⭐
+
+If you found this to be useful, make sure to follow me for more 🙃
+
