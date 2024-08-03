@@ -1,3 +1,10 @@
+<div align="right">
+    <a href="https://www.buymeacoffee.com/bitArtisan">
+        <img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee Pls!" />
+    </a>
+</div>
+
+
 # TSP-Genetic-Algorithm-Solver
 This repository contains a Python implementation of a Traveling Salesman Problem (TSP) solver using Genetic Algorithms hybridized with 2-Opt heuristic optimization and Simulated Annealing. The solver also includes metaheuristic optimizations like Ant Colony Optimization (AOC), also, an Interactive GUI with path highlighting and a city diagram drawer.
 ## What is TSP ?
@@ -68,3 +75,11 @@ If you liked this, please consider leaving a star ⭐
 
 If you found this to be useful, make sure to follow me for more 🙃
 
+<a href="https://www.buymeacoffee.com/bitArtisan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bitArtisan&button_colour=CBC3E3&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<center>
+<div style="text-align: center;">
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/36a3e590-bad2-463d-a25e-f56d65c26761" alt="octodance" width="100" height="100" style="margin-right: 10px;"/>
+  </p>
+</div>
+</center>
