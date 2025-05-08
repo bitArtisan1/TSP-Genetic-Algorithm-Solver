@@ -46,26 +46,6 @@ $ git clone https://github.com/yanpuri/TSP-Genetic-Algorithm-Solver.git
 $ cd TSP-Genetic-Algorithm-Solver
 $ python tsp_solver.py
 ```
-## Notes
-To edit the city configuration, you can modify the code with your coordinates of choice
-~~~python
-default_cities = {
-    "A": (50, 50),
-    "B": (100, 150),
-    "C": (200, 100),
-    "D": (150, 200),
-    "E": (250, 250),
-    "F": (300, 50),
-    "G": (350, 200),
-    "H": (400, 150),
-    "I": (450, 250),
-    "J": (500, 100),
-    "K": (600, 600),
-    "L": (550, 50),
-    "M": (20, 650),
-    "N": (300, 700),
-}
-~~~
 
 You can also modify other parameters for better tunning (alpha, beta, ...)
 
