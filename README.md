@@ -48,6 +48,7 @@ $ python tsp_solver.py
 ```
 
 You can also modify other parameters for better tunning (alpha, beta, ...)
+[![Watch Demo](https://github.com/user-attachments/assets/363ddf0c-a6b4-4034-aa9d-fb4bc013edb9)](https://github.com/user-attachments/assets/55034e47-9ab8-420b-9f8b-bf544f99cabd)
 
 ## Support Me
 If you find RepoUp useful, consider supporting me by:
